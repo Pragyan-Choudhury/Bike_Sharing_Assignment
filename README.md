@@ -1,5 +1,5 @@
 # Bike Sharing Assignment - Linear Regression 
-> This Assignment aims to empower the a US bike-sharing provider Boombikes with insights to understand how exactly the demands vary with different features. They can accordingly enhance the business strategy to meet the demand levels, meet the customer's expectations and improve revenue.
+> This Assignment aims to empower a US bike-sharing provider Boombikes with insights to understand how exactly the demands vary with different features. They can accordingly enhance the business strategy to meet the demand levels, meet the customer's expectations and improve revenue.
 
 
 ## Table of Contents
